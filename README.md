@@ -3,4 +3,4 @@
 
 {"descriptionCam":"Muzangala TV est une chaîne de télévision basée au Angola.","sourceCam":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","titleCam":"MUZANGALA TV"},
 
-{"descriptionCam":"RTP est la chaîne internationale du portugal","sourceCam":["http://210.210.155.37/qwr9ew/s/s38/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODEyNjEyNjdf/tpa.jpg","titleCam":"RTP TV"}]}]}
+{"descriptionCam":"RTP est la chaîne internationale du portugal","sourceCam":["http://210.210.155.37/qwr9ew/s/s38/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTEyMTE4ODNf/rtpangola.png","titleCam":"RTP TV"}]}]}
