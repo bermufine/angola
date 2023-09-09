@@ -1,5 +1,5 @@
 # angola
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"KTV Angola est une chaîne de télévision basée au Angola.","sourceCam":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","titleCam":"KTV ANGOLA"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"KKTV Angola est une chaîne de télévision basée au Angola.","sourceCam":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","titleCam":"KKTV ANGOLA"},
 
 {"descriptionCam":"Muzangala TV est une chaîne de télévision basée au Angola.","sourceCam":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","titleCam":"MUZANGALA TV"},
 
